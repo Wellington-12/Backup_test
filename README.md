@@ -16,7 +16,7 @@ Projeto simples para automatizar backup de um banco PostgreSQL no Linux usando B
 - `log/`: armazena o arquivo de log das execuções
 - `script/`: armazena o script `backup_postgres.sh`
 
-## Banco usado
+## Banco de Dados
 
 - Banco: `teste`
 - Usuário do cron: `postgres`
